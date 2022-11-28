@@ -9,6 +9,8 @@ Apache Pulsar - Machine Learning / Deep Learning / AI - Recipes
 ### ARTICLES
 
 * https://dzone.com/articles/deploying-ai-with-an-event-driven-platform
+* https://medium.com/streamnative/powering-federated-learning-at-tencent-with-apache-pulsar-e17bd7dc151a
+* https://pandio.com/apache-pulsars-role-in-the-future-of-ai-and-ml/
 * https://dzone.com/articles/real-time-streaming-deep-learning-pipelines-with-d
 
 
